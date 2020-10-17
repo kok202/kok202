@@ -5,9 +5,7 @@
   </a>
   kok202 
 </h1>
-<p align="center">
-  Java backend engineer, interested in art, and develop anything that seems to be interesting. Main job is developing mornitoring system.
-</p>
+Java backend engineer, interested in art, and develop anything that seems to be interesting. 
 
 ### 📋 Available 
 - Java (Spring boot)
