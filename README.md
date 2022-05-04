@@ -17,3 +17,9 @@ Java backend engineer, interested in art, and develop anything that seems to be 
 - [2019] [Dluid (Deep learning GUI)](https://github.com/kok202/Dluid)
 - [2020] [Firetorch (Frontend template for firebase)](https://github.com/kok202/firetorch)
 - [2018] [Apollo GAN (Music generation AI)](https://github.com/kok202/ApolloGAN)
+
+### 👾 Personal project
+- [2022] [Duby](https://duby.dev/)
+- [2021] [Crowddeer](https://crowddeer.com/)
+
+Blog: https://kok202.tistory.com/
