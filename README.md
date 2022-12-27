@@ -19,7 +19,12 @@ Java backend engineer, interested in art, and develop anything that seems to be 
 - [2018] [Apollo GAN (Music generation AI)](https://github.com/kok202/ApolloGAN)
 
 ### 👾 Personal project
+
+- [2022] [인프런 강의](https://inf.run/BMEv)
 - [2022] [Duby](https://duby.dev/)
 - [2021] [Crowddeer](https://crowddeer.com/)
+<a href="https://inf.run/BMEv">
+  <img width="320px" src="https://user-images.githubusercontent.com/39543643/209642904-5b3ae528-73bf-4cce-9e54-39135f56b814.png" />
+</a>
 
 Blog: https://kok202.tistory.com/
