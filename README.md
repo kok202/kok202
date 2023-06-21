@@ -20,11 +20,15 @@ Java backend engineer, interested in art, and develop anything that seems to be 
 
 ### 👾 Personal project
 
-- [2022] [인프런 강의](https://inf.run/BMEv)
+- [2023] [인프런 강의 2](https://inf.run/z1yu)
+- [2022] [인프런 강의 1](https://inf.run/BMEv)
 - [2022] [Duby](https://duby.dev/)
 - [2021] [Crowddeer](https://crowddeer.com/)
 <a href="https://inf.run/BMEv">
   <img width="320px" src="https://user-images.githubusercontent.com/39543643/209642904-5b3ae528-73bf-4cce-9e54-39135f56b814.png" />
+</a>
+<a href="https://inf.run/z1yu">
+  <img width="320px" src="https://github.com/kok202/kok202/assets/39543643/7f9e4ee1-ddfa-4a4b-8f87-56605236fda3" />
 </a>
 
 Blog: https://kok202.tistory.com/
