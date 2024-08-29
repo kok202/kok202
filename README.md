@@ -30,7 +30,7 @@ Java backend engineer, interested in art, and develop anything that seems to be 
 
 #### 📗 Writing
 <a href="https://inf.run/BMEv">
-  <img height="240px" src="https://github.com/user-attachments/assets/8074571e-9129-40ef-a833-3301f2e8c80b" /> 
+  <img height="240px" src="https://product.kyobobook.co.kr/detail/S000213447953" /> 
 </a>
 
 #### 🏫 Online class
