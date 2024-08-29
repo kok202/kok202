@@ -8,10 +8,10 @@
 Java backend engineer, interested in art, and develop anything that seems to be interesting. 
 
 ### 📋 Available 
-- Java (Spring boot)
+- Java, Kotlin (Spring boot)
 - React with typescript
 - Deep learning little.
-- Unity
+- Unity little.
 
 ### 💻 Open source repository
 - [2019] [Dluid (Deep learning GUI)](https://github.com/kok202/Dluid)
@@ -20,15 +20,20 @@ Java backend engineer, interested in art, and develop anything that seems to be 
 
 ### 👾 Personal project
 
+- [2024] [자바/스프링 개발자를 위한 실용주의 프로그래밍](https://product.kyobobook.co.kr/detail/S000213447953)
 - [2023] [인프런 강의 2](https://inf.run/z1yu)
 - [2022] [인프런 강의 1](https://inf.run/BMEv)
 - [2022] [Duby](https://duby.dev/)
 - [2021] [Crowddeer](https://crowddeer.com/)
+
 <a href="https://inf.run/BMEv">
-  <img width="320px" src="https://user-images.githubusercontent.com/39543643/209642904-5b3ae528-73bf-4cce-9e54-39135f56b814.png" />
+  <img height="240px" src="https://github.com/user-attachments/assets/8074571e-9129-40ef-a833-3301f2e8c80b" />
+</a>
+<a href="https://inf.run/BMEv">
+  <img height="240px" src="https://user-images.githubusercontent.com/39543643/209642904-5b3ae528-73bf-4cce-9e54-39135f56b814.png" />
 </a>
 <a href="https://inf.run/z1yu">
-  <img width="320px" src="https://github.com/kok202/kok202/assets/39543643/7f9e4ee1-ddfa-4a4b-8f87-56605236fda3" />
+  <img height="240px" src="https://github.com/kok202/kok202/assets/39543643/7f9e4ee1-ddfa-4a4b-8f87-56605236fda3" />
 </a>
 
 Blog: https://kok202.tistory.com/
