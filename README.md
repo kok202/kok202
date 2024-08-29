@@ -26,14 +26,19 @@ Java backend engineer, interested in art, and develop anything that seems to be 
 - [2022] [Duby](https://duby.dev/)
 - [2021] [Crowddeer](https://crowddeer.com/)
 
+<h2 align="center" />
+
+#### 📗 Writing
 <a href="https://inf.run/BMEv">
-  <img height="240px" src="https://github.com/user-attachments/assets/8074571e-9129-40ef-a833-3301f2e8c80b" />
+  <img height="240px" src="https://github.com/user-attachments/assets/8074571e-9129-40ef-a833-3301f2e8c80b" /> 
 </a>
-<a href="https://inf.run/BMEv">
-  <img height="240px" src="https://user-images.githubusercontent.com/39543643/209642904-5b3ae528-73bf-4cce-9e54-39135f56b814.png" />
-</a>
+
+#### 🏫 Online class
 <a href="https://inf.run/z1yu">
-  <img height="240px" src="https://github.com/kok202/kok202/assets/39543643/7f9e4ee1-ddfa-4a4b-8f87-56605236fda3" />
+  <img height="200px" src="https://github.com/kok202/kok202/assets/39543643/7f9e4ee1-ddfa-4a4b-8f87-56605236fda3" />
+</a>
+<a href="https://inf.run/BMEv">
+  <img height="200px" src="https://user-images.githubusercontent.com/39543643/209642904-5b3ae528-73bf-4cce-9e54-39135f56b814.png" />
 </a>
 
 Blog: https://kok202.tistory.com/
